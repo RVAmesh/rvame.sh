@@ -2,7 +2,7 @@
 title: RVA Mesh Home
 description: 
 published: true
-date: 2026-03-12T01:39:05.433Z
+date: 2026-03-12T01:39:30.276Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-09T13:36:40.549Z
@@ -39,5 +39,3 @@ This wiki focuses primarily on [**Meshtastic**](https://meshtastic.org/)  and [*
 This wiki is yours. If you know something useful, please add it. The best mesh networks are built by communities, and so are the best wikis. Ideas might include: good node spots,  configs that works well, lessons learned the hard way.
 
 Join the conversation, add a page, update the map. RVA mesh is what we make it.
-
-<iframe src="http://192.168.2.202:3001/embed/9c07ccdb-6f73-4489-942e-24639d832079" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
